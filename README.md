@@ -91,10 +91,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
