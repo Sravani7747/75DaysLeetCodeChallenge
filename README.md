@@ -128,4 +128,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
