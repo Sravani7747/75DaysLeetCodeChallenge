@@ -156,6 +156,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -164,6 +165,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -179,6 +181,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sravani7747/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
